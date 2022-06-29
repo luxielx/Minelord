@@ -1,0 +1,7 @@
+name: MineLord
+version: 1.0
+main: kdvn.main.Main
+softdepends: [MVdWPlaceholderAPI]
+commands:
+    ml:
+        description: Dit nhau keu o o o o

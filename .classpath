@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/HolographicDisplaysAPI_v2.1.7.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/Vault.jar"/>
+	<classpathentry kind="lib" path="E:/SERVER/plugins/PlayerPoints.jar"/>
+	<classpathentry kind="lib" path="E:/SERVER/plugins/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/EasyScoreboards.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/TitleAPI-1.7.4.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/Parties-1.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/PlayerPoints.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/NametagEdit.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/worldguard-6.2.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/worldedit-bukkit-6.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/GlowAPI_v1.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/PacketListenerAPI_v3.6.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/MVdWPlaceholderAPI.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/Actionbar.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/spigot-1.11.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/SERVER/plugins/EssentialsX-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/PLUGIN/WhosAFK.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
